@@ -1,24 +1,24 @@
 h1{
     text-align: center;
-    color: black;
+    color: white;
     font-family: verdana;
 }
 
 h3{
    text-align: center;
-   color: grey;
+   color: white;
    font-family: verdana;
 }
 
 h4{
     text-align: center;
-    color: rgb(61, 58, 58);
+    color: white;
     font-family: verdana;
 }
 
 h2{
     text-align: center;
-    color: black;
+    color: white;
     font-family: verdana;
 }
 
@@ -88,6 +88,10 @@ h2{
     background-color: #555555;
     color: white;
   }
+
+body{
+   background-color: black;
+}
 
 
 
